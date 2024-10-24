@@ -855,7 +855,7 @@ main section.advantages > .container .advantages_list .advantages_item div p b {
   font-size: 20px;
 }
 main section.correct {
-  background-image: url(/images/bg_newsletter.png);
+  background-image: url(../images/bg_newsletter.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 516px;
